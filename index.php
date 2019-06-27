@@ -28,8 +28,8 @@
   			echo date("Y m d");
   		?> 
   		<p>
-  			<a href="/login.php">Login</a>
-  			<a href="/register.php">Register</a>
+  			<a href="PHP-Login-System-master/login.php">Login</a>
+  			<a href="PHP-Login-System-master/register.php">Register</a>
   		</p>
   	</div>
 
